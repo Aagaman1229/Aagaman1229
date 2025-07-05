@@ -4,7 +4,7 @@
 ---
 
 💻 **About Me**
-- 🎓 I'm a computer engineering student passionate about learning and building tech that solves real problems.
+- 🎓 Computer engineering student
 - 💡 Exploring AI, ML, embedded systems, and full-stack development.
 - 🎶 When I'm not coding, I'm probably playing guitar, singing, or vibing with music.
 ---
