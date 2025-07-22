@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋, I'm [Your Name]</h1>
+<h1 align="center">Hey there 👋, I'm Aagaman K.C.</h1>
 <h3 align="center">A tech explorer by day, a music soul by night 🎸🎶</h3>
 
 ---
